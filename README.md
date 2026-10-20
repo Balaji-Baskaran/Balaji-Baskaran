@@ -5,7 +5,7 @@
 I am a final-year B.Tech Artificial Intelligence and Data Science student passionate about building practical web applications and intelligent systems. I enjoy solving problems, exploring new technologies, and transforming ideas into useful software solutions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balaji-Baskaran)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/balaji--baskaran)
 
 ---
 
