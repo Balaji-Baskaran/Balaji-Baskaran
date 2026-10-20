@@ -53,12 +53,6 @@ I am a final-year B.Tech Artificial Intelligence and Data Science student passio
 
 ---
 
-## 📈 Contribution Activity
-
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Balaji-Baskaran&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 
 I'm always interested in learning, collaborating on meaningful projects, and connecting with developers.
