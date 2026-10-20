@@ -58,7 +58,7 @@ I am a final-year B.Tech Artificial Intelligence and Data Science student passio
 I'm always interested in learning, collaborating on meaningful projects, and connecting with developers.
 
 - 💻 GitHub: [Balaji-Baskaran](https://github.com/Balaji-Baskaran)
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/balaji--baskaran)
 
 ---
 
