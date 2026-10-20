@@ -62,6 +62,3 @@ I'm always interested in learning, collaborating on meaningful projects, and con
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Balaji-Baskaran&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-</p>
