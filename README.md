@@ -4,7 +4,8 @@
 
 # Hi, I'm Balaji B 👋
 
-### 🐍 Python Developer | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast
+## Python Developer | Full-Stack Developer | AI/ML Enthusiast
+
 
 I'm a final-year B.Tech Artificial Intelligence and Data Science student passionate about developing full-stack applications and AI-powered systems. I enjoy designing practical software solutions, exploring emerging technologies, and integrating AI/ML capabilities into applications to solve real-world problems. I'm constantly learning, experimenting, and improving my skills to build efficient and impactful solutions.
 
