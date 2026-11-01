@@ -1,11 +1,11 @@
+
 <img width="2131" height="738" alt="image" src="https://github.com/user-attachments/assets/b2fe43c7-c7bc-4fb5-b4cb-6de8a1431efc" />
 
 ---
 
-# Hi, I'm Balaji B 👋
+# 💫 Hi, I'm Balaji B 👋
 
-## Python Developer | Full-Stack Developer | AI/ML Enthusiast
-
+### 🐍 Python Developer | 🖥️ Full-Stack Developer | 🤖 AI/ML Enthusiast
 
 I'm a final-year B.Tech Artificial Intelligence and Data Science student passionate about developing full-stack applications and AI-powered systems. I enjoy designing practical software solutions, exploring emerging technologies, and integrating AI/ML capabilities into applications to solve real-world problems. I'm constantly learning, experimenting, and improving my skills to build efficient and impactful solutions.
 
